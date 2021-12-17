@@ -8,4 +8,4 @@
 
 <h4>Onedark</h4>
 
-<img src="Res/Onedark.png"
+<img src="Res/Onedark.png">
